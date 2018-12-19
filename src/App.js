@@ -64,7 +64,7 @@ class App extends Component {
         </div>
 
 <footer className="App-Footer">
-<p>Buon Natale!<span>Felice 2019!</span></p>
+<p>Francesca Roncarati<span>Buone feste!!</span></p>
 </footer>
 
       </div>
